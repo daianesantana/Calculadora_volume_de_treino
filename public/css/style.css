@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(61, 130, 72);
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    background-color: aliceblue;
+    width: 35%;
+    border-radius: 5%;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paragrafo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(43, 103, 61);
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+label{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(88, 87, 87);
+    font-weight: bold;
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+   
+}
+
+.conteudoBotao{
+    height: 25px;
+    background-color: rgb(239, 216, 216);
+    color: rgb(1, 65, 32);
+    font-weight: bold;
+}
+
+.conteudoDetalhes p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerbotao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+.btnVoltar{
+    height: 25px;
+    background-color: rgb(239, 216, 216);
+    color: rgb(1, 65, 32);
+    font-weight: bold;
+}
